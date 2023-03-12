@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+:root{
+    --main-brand-color: #3d3d3d;
+    --primary-color: #ffffff;
+    --secundary-color: #3d3d3d;
+    --light-secundary-color: #3d3d3d;
+    --text-color: #b13636;
+    --secundary-text-color: #18d040;
+} 
+
+
+h1{
+font-size: 20px;
+line-height: 115%;
+
+font-family: 'Tilt Neon';
+text-align:center;
+
+
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .subheading {
+    text-align: left;
+    font-size: 19px;
+    margin: 0 auto;
+    font-family: 'Tilt Neon';
+    padding: 0px 0px 0px 50px;
+  }
+  

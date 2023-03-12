@@ -1,0 +1,181 @@
+/* Header-Styling */
+header {
+    background-color: #FFFFFF;
+    box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.05);
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+  }
+  
+  nav ul {
+    display: flex;
+    gap: 20px;
+    justify-content: flex-end;
+    list-style: none;
+    margin: 0;
+    padding: 30px 0px 0px 0px;
+  }
+  
+  nav a {
+    color: #3E3E3E;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    color: #7F7F7F;
+  }
+  
+  nav ul ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+  }
+  
+  nav ul li:hover > ul {
+    display: inherit;
+  }
+  
+  nav ul ul li {
+    display: block;
+    width: 200px;
+  }
+  
+  nav ul ul li a {
+    padding: 15px;
+  }
+  
+  nav ul ul li a:hover {
+    background-color: #7F7F7F;
+    color: #FFFFFF;
+  }
+  
+  h1 {
+    color: #3E3E3E;
+    font-family: 'Tilt Neon', cursive;
+    font-size: 48px;
+    font-weight: 800;
+    margin: 60px 0px 10px 0px;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  
+  .ava_button {
+    background-color: #6A5ACD;
+    border: none;
+    border-radius: 4px;
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 15px 25px;
+  }
+  
+  .ava_button:hover {
+    background-color: #483D8B;
+  }
+  
+  .subheading {
+    color: #7F7F7F;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.8;
+    margin: 0px auto 60px;
+    max-width: 800px;
+    text-align: center;
+  }
+  
+/* Header-Styling */
+header {
+    background-color: #FFFFFF;
+    box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.05);
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+  }
+  
+  nav ul {
+    display: flex;
+    gap: 20px;
+    justify-content: flex-end;
+    list-style: none;
+    margin: 0;
+    padding: 30px 0px 0px 0px;
+  }
+  
+  nav a {
+    color: #3E3E3E;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    color: #7F7F7F;
+  }
+  
+  nav ul ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+  }
+  
+  nav ul li:hover > ul {
+    display: inherit;
+  }
+  
+  nav ul ul li {
+    display: block;
+    width: 200px;
+  }
+  
+  nav ul ul li a {
+    padding: 15px;
+  }
+  
+  nav ul ul li a:hover {
+    background-color: #7F7F7F;
+    color: #FFFFFF;
+  }
+  
+  h1 {
+    color: #3E3E3E;
+    font-family: 'Tilt Neon', cursive;
+    font-size: 48px;
+    font-weight: 800;
+    margin: 60px 0px 10px 0px;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  
+  .ava_button {
+    background-color: #6A5ACD;
+    border: none;
+    border-radius: 4px;
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 15px 25px;
+  }
+  
+  .ava_button:hover {
+    background-color: #483D8B;
+  }
+  
+  .subheading {
+    color: #7F7F7F;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.8;
+    margin: 0px auto 60px;
+    max-width: 800px;
+    text-align: center;
+  }
+  
+    
